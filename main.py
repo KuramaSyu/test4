@@ -1,10 +1,10 @@
-a = 1
+a = 5
 
 
 def say_hello():
     print("Hello, world!")
 
 def say_goodbye():
-    print("Goodbye, world!")
+    print("Asshole!")
 
 say_hello()
